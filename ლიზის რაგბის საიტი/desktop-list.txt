@@ -1,0 +1,27 @@
+﻿
+
+    Directory: C:\Users\DELL\Desktop
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        16.06.2026     18:15                dd                                                                   
+d-----        08.05.2026     14:02                game                                                                 
+d-----        06.07.2026     19:24                gg                                                                   
+d-----        13.07.2026     12:36                pbz2                                                                 
+d-r---        14.07.2026     00:54                saiti1                                                               
+d-----        14.07.2026     00:17                saiti2                                                               
+d-----        14.07.2026     00:56                ლიზის რაგბის საიტი                                                   
+-a----        21.06.2026     18:14        3426108 AutoHotkey_1.1.37.02_setup.exe                                       
+-a----        28.06.2026     17:27            223 BOMBANANA! Demo.url                                                  
+-a----        22.06.2026     15:47            219 Counter-Strike 2.url                                                 
+-a----        13.07.2026     23:44           1310 Cursor.lnk                                                           
+-a----        14.07.2026     00:16          71097 e601314d-2617-4b9f-9e3a-fc9fddadc56f.jpg                             
+-a----        07.05.2026     10:08           2274 Google Chrome.lnk                                                    
+-a----        06.05.2026     18:18           2348 Microsoft Edge.lnk                                                   
+-a----        09.07.2026     16:28           1390 Roblox Player.lnk                                                    
+-a----        08.07.2026     22:04           1218 Roblox Studio.lnk                                                    
+-a----        21.06.2026     18:20          23251 V12 no GUI.ahk                                                       
+-a----        04.06.2026     23:03      183429000 VSCodeUserSetup-x64-1.123.0.exe                                      
+
+

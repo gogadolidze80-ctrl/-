@@ -1,0 +1,10 @@
+﻿
+
+    Directory: C:\Users\DELL\Desktop
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        14.07.2026     00:16          71097 e601314d-2617-4b9f-9e3a-fc9fddadc56f.jpg                             
+
+
